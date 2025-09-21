@@ -1,0 +1,13 @@
+streamlit
+pandas
+langchain
+langchain_google_genai
+python-dotenv
+unstructured
+pypdf
+openpyxl
+faiss-cpu
+sentence-transformers
+langchain-community
+langchain-experimental
+tabulate
