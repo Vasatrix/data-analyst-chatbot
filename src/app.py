@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from data_processor import load_data
-from agents.data_agent import create_data_agent
+from data_agent import create_data_agent
 
 st.set_page_config(page_title="Vasanth's DAC", page_icon="🤖")
 
