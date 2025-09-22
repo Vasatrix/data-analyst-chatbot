@@ -5,6 +5,8 @@ langchain_google_genai
 python-dotenv
 unstructured
 pypdf
+PyPDF2
+python-docx
 openpyxl
 faiss-cpu
 sentence-transformers
